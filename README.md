@@ -161,7 +161,7 @@ Data Mining Assignment GROUP ONE
 
 
 -   NDAYAMBAJE Virgile 25011041
-- Name 2
+- Innocent Fiston Kabalisa  W/BCS/21/09/15534
 - Name 3
 
 ---
